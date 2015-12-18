@@ -1,6 +1,6 @@
 {
   "webdriverVersions": {
-    "selenium": "2.48.2",
+    "selenium": "2.47.0",
     "chromedriver": "2.20",
     "iedriver": "2.48.0"
   }
